@@ -1,0 +1,8 @@
+<cartridge>
+   <product text="NaiveBayes" directory="analytics_naive_bayes" subdir="" files="True" db="True" database="nza" />
+   <vendor name="Netezza" directory="nz" />
+   <scripts install="True" is_installed="True" register="True"
+        is_registered="True" uninstall="True" unregister="True" verify="True" />
+   <directories system="/" ae="/../system_ae"/>
+   <readme>
+This is an implementation of Naive Bayes classifier.
